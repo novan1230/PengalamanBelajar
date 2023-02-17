@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Reposutory ini berisi pengalaman belajarku di Dicoding
+Repository ini berisi pengalaman belajarku di Dicoding
 
 **14 Juni 2021**
 
